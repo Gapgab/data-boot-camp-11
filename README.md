@@ -2,18 +2,19 @@
 Data Science Bootcamp projects
 
 
-This bootcamp runs about 4 months , 10 projects
 
-- speedsheet with Google Sheet
+This bootcamp runs about 4 months , 10 projects 
+
+- spreadsheets with Google Sheet
 - Database
-- R programing
-- Data Transfromation
-- Data Visulization
+- R programming
+- Data Transformation
+- Data Visualization
 - Standard Statistics
 - Dashboard
 - Machine Learning
-- Python
-- Website with Wordpress
+- Python for Data Analyst
+- Website with WordPress
 - PANAS and NUMPY
 
 I love `R Programing`. [in Line code]
