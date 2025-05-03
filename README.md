@@ -15,7 +15,7 @@ This bootcamp runs about 4 months , 10 projects
 - Machine Learning
 - Python for Data Analyst
 - Website with WordPress
-- PANAS and NUMPY
+- Essantial of Python :PANAS and NUMPY
 
 I love `R Programing`. [in Line code]
 
